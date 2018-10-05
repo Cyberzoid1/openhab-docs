@@ -8,6 +8,7 @@ layout: tutorial-beginner
 
 This part is not yet written.
 
+In the meantime, please look at the [Persistence configuration guide] ({//docs/configuration/persistence.html})
 .
 
 .
